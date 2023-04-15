@@ -122,11 +122,11 @@ It is very easy to contribute, you may follow these steps -
 95. [Strassen's Multiplication](https://github.com/PrajaktaSathe/Java/blob/main/Programs/StrassensMultiplication.java) - Program to multiply two square matrices using Strassen's Multiplication method.
 96. [Xor Palindrome](https://github.com/PrajaktaSathe/Java/blob/main/Programs/Xorpalindrome.java) - Program/Solution to Xor Palindrome
 97. [Streams API](./Programs/JavaStreams.java) - Program to demo the Java Stream API with String and Integer Lists.
-98.[Stack](https://github.com/PrajaktaSathe/Java/blob/main/Stack.java)-Program to demo the stack implementation
-99.[RotateLinkedList](https://github.com/PrajaktaSathe/Java/blob/main/Programs/RotateLinkedList.java)-Program to demo rotating a linked list.
-100.[ReverseString](https://github.com/PrajaktaSathe/Java/blob/main/ReverseString.java) -Program to reverse a String using the java method substring.
-101.[Overriding](https://github.com/PrajaktaSathe/Java/blob/main/Programs/Overriding.java)-Program to demo overriding in java.
-102.[Hashing](https://github.com/Parul-8/problem-solving/tree/main/Array%20Subset%20of%20another%20array%20-%20GFG)-Program to find whether one array is subset of another or not using hashing.
+98. [Stack] (https://github.com/PrajaktaSathe/Java/blob/main/Stack.java)-Program to demo the stack implementation
+99. [RotateLinkedList] (https://github.com/PrajaktaSathe/Java/blob/main/Programs/RotateLinkedList.java)-Program to demo rotating a linked list.
+100. [ReverseString] (https://github.com/PrajaktaSathe/Java/blob/main/ReverseString.java) -Program to reverse a String using the java method substring.
+101. [Overriding] (https://github.com/PrajaktaSathe/Java/blob/main/Programs/Overriding.java)-Program to demo overriding in java.
+102. [Hashing] (https://github.com/Parul-8/problem-solving/tree/main/Array%20Subset%20of%20another%20array%20-%20GFG)-Program to find whether one array is subset of another or not using hashing.
 
 # Contributors - 
 ## A big thank you to all our contributors!!!
