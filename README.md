@@ -126,6 +126,7 @@ It is very easy to contribute, you may follow these steps -
 99.[RotateLinkedList](https://github.com/PrajaktaSathe/Java/blob/main/Programs/RotateLinkedList.java)-Program to demo rotating a linked list
 100. [ReverseString](https://github.com/PrajaktaSathe/Java/blob/main/ReverseString.java) -Program to reverse a String using the java method substring.
 101.[Overriding](https://github.com/PrajaktaSathe/Java/blob/main/Programs/Overriding.java)-Program to demo overriding in java
+102.[Hashing](https://github.com/Parul-8/problem-solving/tree/main/Array%20Subset%20of%20another%20array%20-%20GFG)-Program to find whether one array is subset of another or not using hashing.
 
 # Contributors - 
 ## A big thank you to all our contributors!!!
